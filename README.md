@@ -1,2 +1,5 @@
-# random-fact-2026-09-28T06-22-06.964Z-364random-fact-2026-09-28T06-22-06.964Z-364
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+The reason why hair turns gray as we age is because the pigment cells in the hair follicle start to die, which is responsible for producing "melanin" which gives the hair colour
+
+*Generated on 2026-09-28T06:22:10.505Z*
